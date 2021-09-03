@@ -7,7 +7,7 @@
 <title>Guru Registration Form yarden </title>
 </head>
 <body>
-<h1>Guru  Form</h1>
+<h1>Yarden Fayer  Form</h1>
 <form action="guru YardenFayer" method="post">
 			<table style="with: 50%">
 				<tr>
